@@ -21,7 +21,7 @@ public class SqlMapSessionFactory {
 		
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn = DriverManager.getConnection("jdbc:oracle:thin:@127.0.0.1:1521:orcl", "c##rabbit2", "12081041");
+			conn = DriverManager.getConnection("jdbc:oracle:thin:@127.0.0.1:1521:orcl", "사용자계정", "비밀번호");
 					
 		}
 		catch(Exception ex) {
