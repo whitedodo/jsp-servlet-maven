@@ -22,6 +22,8 @@ Apache Maven을 활용하여 JSP/Servlet와 기본 내장SQL을 활용한 프로
 ##### (This is a pure Maven project with the Spring Framework removed.)
 
 ### 2. 시연(Demonstration)
+##### 1. 1. jsp-servlet-maven(CRUD) - 시연(Practice), https://youtu.be/Jdc7vUVyrxc, Accessed by 2020-09-21, Last Modified 2020-09-21.
+##### 2. 2. jsp-servlet-maven(CRUD) - SQL Developer 시연(Practice), https://youtu.be/AOdIG-KDpsM, Accessed by 2020-09-21, Last Modified 2020-09-21.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-20, Last Modified .
